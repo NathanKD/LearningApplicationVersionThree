@@ -1,0 +1,209 @@
+C:\Users\natha\source\repos\DTPStudentApp\DTPStudentApp\bin\Debug\DTPStudentApp.exe.config
+C:\Users\natha\source\repos\DTPStudentApp\DTPStudentApp\bin\Debug\DTPStudentApp.exe
+C:\Users\natha\source\repos\DTPStudentApp\DTPStudentApp\bin\Debug\DTPStudentApp.pdb
+C:\Users\natha\source\repos\DTPStudentApp\DTPStudentApp\obj\Debug\DTPStudentApp.csproj.AssemblyReference.cache
+C:\Users\natha\source\repos\DTPStudentApp\DTPStudentApp\obj\Debug\DTPStudentApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\natha\source\repos\DTPStudentApp\DTPStudentApp\obj\Debug\DTPStudentApp.StudentApp.resources
+C:\Users\natha\source\repos\DTPStudentApp\DTPStudentApp\obj\Debug\DTPStudentApp.Properties.Resources.resources
+C:\Users\natha\source\repos\DTPStudentApp\DTPStudentApp\obj\Debug\DTPStudentApp.csproj.GenerateResource.cache
+C:\Users\natha\source\repos\DTPStudentApp\DTPStudentApp\obj\Debug\DTPStudentApp.csproj.CoreCompileInputs.cache
+C:\Users\natha\source\repos\DTPStudentApp\DTPStudentApp\obj\Debug\DTPStudentApp.exe
+C:\Users\natha\source\repos\DTPStudentApp\DTPStudentApp\obj\Debug\DTPStudentApp.pdb
+C:\Users\nathan.kleinedeters\Downloads\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\DTPStudentApp.exe.config
+C:\Users\nathan.kleinedeters\Downloads\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\DTPStudentApp.exe
+C:\Users\nathan.kleinedeters\Downloads\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\DTPStudentApp.pdb
+C:\Users\nathan.kleinedeters\Downloads\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DTPStudentApp\obj\Debug\DTPStudentApp.csprojAssemblyReference.cache
+C:\Users\nathan.kleinedeters\Downloads\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DTPStudentApp\obj\Debug\DTPStudentApp.StudentApp.resources
+C:\Users\nathan.kleinedeters\Downloads\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DTPStudentApp\obj\Debug\DTPStudentApp.Properties.Resources.resources
+C:\Users\nathan.kleinedeters\Downloads\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DTPStudentApp\obj\Debug\DTPStudentApp.csproj.GenerateResource.cache
+C:\Users\nathan.kleinedeters\Downloads\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DTPStudentApp\obj\Debug\DTPStudentApp.csproj.CoreCompileInputs.cache
+C:\Users\nathan.kleinedeters\Downloads\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DTPStudentApp\obj\Debug\DTPStudentApp.exe
+C:\Users\nathan.kleinedeters\Downloads\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DTPStudentApp\obj\Debug\DTPStudentApp.pdb
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\DTPStudentApp.exe.config
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\DTPStudentApp.exe
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\DTPStudentApp.pdb
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DTPStudentApp\obj\Debug\DTPStudentApp.csproj.AssemblyReference.cache
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DTPStudentApp\obj\Debug\DTPStudentApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DTPStudentApp\obj\Debug\DTPStudentApp.StudentApp.resources
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DTPStudentApp\obj\Debug\DTPStudentApp.Properties.Resources.resources
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DTPStudentApp\obj\Debug\DTPStudentApp.csproj.GenerateResource.cache
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DTPStudentApp\obj\Debug\DTPStudentApp.csproj.CoreCompileInputs.cache
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DTPStudentApp\obj\Debug\DTPStudentApp.exe
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DTPStudentApp\obj\Debug\DTPStudentApp.pdb
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Desktop\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\DTPStudentApp.exe.config
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Desktop\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\DTPStudentApp.exe
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Desktop\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\DTPStudentApp.pdb
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Desktop\DigitalProjectVersionOne-main\DTPStudentApp\obj\Debug\DTPStudentApp.csprojAssemblyReference.cache
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Desktop\DigitalProjectVersionOne-main\DTPStudentApp\obj\Debug\DTPStudentApp.StudentApp.resources
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Desktop\DigitalProjectVersionOne-main\DTPStudentApp\obj\Debug\DTPStudentApp.Properties.Resources.resources
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Desktop\DigitalProjectVersionOne-main\DTPStudentApp\obj\Debug\DTPStudentApp.csproj.GenerateResource.cache
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Desktop\DigitalProjectVersionOne-main\DTPStudentApp\obj\Debug\DTPStudentApp.csproj.CoreCompileInputs.cache
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Desktop\DigitalProjectVersionOne-main\DTPStudentApp\obj\Debug\DTPStudentApp.exe
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Desktop\DigitalProjectVersionOne-main\DTPStudentApp\obj\Debug\DTPStudentApp.pdb
+C:\Users\nathan.kleinedeters\Downloads\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nathan.kleinedeters\Downloads\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\SocketIOClient.dll
+C:\Users\nathan.kleinedeters\Downloads\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\System.Buffers.dll
+C:\Users\nathan.kleinedeters\Downloads\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\System.Memory.dll
+C:\Users\nathan.kleinedeters\Downloads\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nathan.kleinedeters\Downloads\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nathan.kleinedeters\Downloads\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\nathan.kleinedeters\Downloads\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\System.Text.Json.dll
+C:\Users\nathan.kleinedeters\Downloads\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nathan.kleinedeters\Downloads\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\System.ValueTuple.dll
+C:\Users\nathan.kleinedeters\Downloads\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nathan.kleinedeters\Downloads\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\SocketIOClient.xml
+C:\Users\nathan.kleinedeters\Downloads\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\System.Buffers.xml
+C:\Users\nathan.kleinedeters\Downloads\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\System.Memory.xml
+C:\Users\nathan.kleinedeters\Downloads\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nathan.kleinedeters\Downloads\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nathan.kleinedeters\Downloads\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\nathan.kleinedeters\Downloads\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\System.Text.Json.xml
+C:\Users\nathan.kleinedeters\Downloads\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nathan.kleinedeters\Downloads\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\System.ValueTuple.xml
+C:\Users\nathan.kleinedeters\Downloads\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DTPStudentApp\obj\Debug\DTPStudentApp.csproj.CopyComplete
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\DTPStudentApp.exe.config
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\DTPStudentApp.exe
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\DTPStudentApp.pdb
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\SocketIOClient.dll
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\System.Buffers.dll
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\System.Memory.dll
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\System.Text.Json.dll
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\System.ValueTuple.dll
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\SocketIOClient.xml
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\System.Buffers.xml
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\System.Memory.xml
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\System.Text.Json.xml
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\System.ValueTuple.xml
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DTPStudentApp\obj\Debug\DTPStudentApp.csproj.AssemblyReference.cache
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DTPStudentApp\obj\Debug\DTPStudentApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DTPStudentApp\obj\Debug\DTPStudentApp.StudentApp.resources
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DTPStudentApp\obj\Debug\DTPStudentApp.Properties.Resources.resources
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DTPStudentApp\obj\Debug\DTPStudentApp.csproj.GenerateResource.cache
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DTPStudentApp\obj\Debug\DTPStudentApp.csproj.CoreCompileInputs.cache
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DTPStudentApp\obj\Debug\DTPStudentApp.csproj.CopyComplete
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DTPStudentApp\obj\Debug\DTPStudentApp.exe
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DTPStudentApp\obj\Debug\DTPStudentApp.pdb
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\Woof.Core.dll
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\Woof.System.dll
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\Woof.Core.xml
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\Woof.System.xml
+C:\Users\nathan.kleinedeters\Downloads\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\Woof.Core.dll
+C:\Users\nathan.kleinedeters\Downloads\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\Woof.System.dll
+C:\Users\nathan.kleinedeters\Downloads\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\Woof.Core.xml
+C:\Users\nathan.kleinedeters\Downloads\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DTPStudentApp\bin\Debug\Woof.System.xml
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\bin\Debug\DTPStudentApp.exe.config
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\bin\Debug\DTPStudentApp.exe
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\bin\Debug\DTPStudentApp.pdb
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\bin\Debug\SocketIOClient.dll
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\bin\Debug\System.Buffers.dll
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\bin\Debug\System.Memory.dll
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\bin\Debug\System.Text.Json.dll
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\bin\Debug\System.ValueTuple.dll
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\bin\Debug\Woof.Core.dll
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\bin\Debug\Woof.System.dll
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\bin\Debug\SocketIOClient.xml
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\bin\Debug\System.Buffers.xml
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\bin\Debug\System.Memory.xml
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\bin\Debug\System.Text.Json.xml
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\bin\Debug\System.ValueTuple.xml
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\bin\Debug\Woof.Core.xml
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\bin\Debug\Woof.System.xml
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\obj\Debug\DTPStudentApp.csprojAssemblyReference.cache
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\obj\Debug\DTPStudentApp.StudentApp.resources
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\obj\Debug\DTPStudentApp.Properties.Resources.resources
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\obj\Debug\DTPStudentApp.csproj.GenerateResource.cache
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\obj\Debug\DTPStudentApp.csproj.CoreCompileInputs.cache
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\obj\Debug\DTPStudentApp.csproj.CopyComplete
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\obj\Debug\DTPStudentApp.exe
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\obj\Debug\DTPStudentApp.pdb
+C:\Users\natha\Downloads\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\DTPStudentApp.exe.config
+C:\Users\natha\Downloads\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\DTPStudentApp.exe
+C:\Users\natha\Downloads\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\DTPStudentApp.pdb
+C:\Users\natha\Downloads\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\natha\Downloads\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\SocketIOClient.dll
+C:\Users\natha\Downloads\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\System.Buffers.dll
+C:\Users\natha\Downloads\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\System.Memory.dll
+C:\Users\natha\Downloads\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\natha\Downloads\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\natha\Downloads\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\natha\Downloads\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\System.Text.Json.dll
+C:\Users\natha\Downloads\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\natha\Downloads\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\System.ValueTuple.dll
+C:\Users\natha\Downloads\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\Woof.Core.dll
+C:\Users\natha\Downloads\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\Woof.System.dll
+C:\Users\natha\Downloads\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\natha\Downloads\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\SocketIOClient.xml
+C:\Users\natha\Downloads\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\System.Buffers.xml
+C:\Users\natha\Downloads\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\System.Memory.xml
+C:\Users\natha\Downloads\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\natha\Downloads\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\natha\Downloads\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\natha\Downloads\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\System.Text.Json.xml
+C:\Users\natha\Downloads\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\natha\Downloads\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\System.ValueTuple.xml
+C:\Users\natha\Downloads\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\Woof.Core.xml
+C:\Users\natha\Downloads\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\Woof.System.xml
+C:\Users\natha\Downloads\DTPStudentApp\DTPStudentApp\DTPStudentApp\obj\Debug\DTPStudentApp.csproj.AssemblyReference.cache
+C:\Users\natha\Downloads\DTPStudentApp\DTPStudentApp\DTPStudentApp\obj\Debug\DTPStudentApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\natha\Downloads\DTPStudentApp\DTPStudentApp\DTPStudentApp\obj\Debug\DTPStudentApp.StudentApp.resources
+C:\Users\natha\Downloads\DTPStudentApp\DTPStudentApp\DTPStudentApp\obj\Debug\DTPStudentApp.Properties.Resources.resources
+C:\Users\natha\Downloads\DTPStudentApp\DTPStudentApp\DTPStudentApp\obj\Debug\DTPStudentApp.csproj.GenerateResource.cache
+C:\Users\natha\Downloads\DTPStudentApp\DTPStudentApp\DTPStudentApp\obj\Debug\DTPStudentApp.csproj.CoreCompileInputs.cache
+C:\Users\natha\Downloads\DTPStudentApp\DTPStudentApp\DTPStudentApp\obj\Debug\DTPStudentApp.csproj.CopyComplete
+C:\Users\natha\Downloads\DTPStudentApp\DTPStudentApp\DTPStudentApp\obj\Debug\DTPStudentApp.exe
+C:\Users\natha\Downloads\DTPStudentApp\DTPStudentApp\DTPStudentApp\obj\Debug\DTPStudentApp.pdb
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp (1)\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\DTPStudentApp.exe.config
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp (1)\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\DTPStudentApp.exe
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp (1)\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\DTPStudentApp.pdb
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp (1)\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp (1)\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\SocketIOClient.dll
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp (1)\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\System.Buffers.dll
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp (1)\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\System.Memory.dll
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp (1)\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp (1)\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp (1)\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp (1)\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\System.Text.Json.dll
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp (1)\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp (1)\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\System.ValueTuple.dll
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp (1)\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\Woof.Core.dll
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp (1)\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\Woof.System.dll
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp (1)\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp (1)\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\SocketIOClient.xml
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp (1)\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\System.Buffers.xml
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp (1)\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\System.Memory.xml
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp (1)\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp (1)\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp (1)\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp (1)\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\System.Text.Json.xml
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp (1)\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp (1)\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\System.ValueTuple.xml
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp (1)\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\Woof.Core.xml
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp (1)\DTPStudentApp\DTPStudentApp\DTPStudentApp\bin\Debug\Woof.System.xml
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp (1)\DTPStudentApp\DTPStudentApp\DTPStudentApp\obj\Debug\DTPStudentApp.csprojAssemblyReference.cache
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp (1)\DTPStudentApp\DTPStudentApp\DTPStudentApp\obj\Debug\DTPStudentApp.StudentApp.resources
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp (1)\DTPStudentApp\DTPStudentApp\DTPStudentApp\obj\Debug\DTPStudentApp.Properties.Resources.resources
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp (1)\DTPStudentApp\DTPStudentApp\DTPStudentApp\obj\Debug\DTPStudentApp.csproj.GenerateResource.cache
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp (1)\DTPStudentApp\DTPStudentApp\DTPStudentApp\obj\Debug\DTPStudentApp.csproj.CoreCompileInputs.cache
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp (1)\DTPStudentApp\DTPStudentApp\DTPStudentApp\obj\Debug\DTPStudentApp.csproj.CopyComplete
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp (1)\DTPStudentApp\DTPStudentApp\DTPStudentApp\obj\Debug\DTPStudentApp.exe
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp (1)\DTPStudentApp\DTPStudentApp\DTPStudentApp\obj\Debug\DTPStudentApp.pdb

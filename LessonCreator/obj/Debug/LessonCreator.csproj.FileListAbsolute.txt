@@ -1,0 +1,155 @@
+C:\Users\natha\source\repos\DTPStudentApp\LessonCreator\bin\Debug\LessonCreator.exe.config
+C:\Users\natha\source\repos\DTPStudentApp\LessonCreator\bin\Debug\LessonCreator.exe
+C:\Users\natha\source\repos\DTPStudentApp\LessonCreator\bin\Debug\LessonCreator.pdb
+C:\Users\natha\source\repos\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.csproj.AssemblyReference.cache
+C:\Users\natha\source\repos\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.csproj.SuggestedBindingRedirects.cache
+C:\Users\natha\source\repos\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.Properties.Resources.resources
+C:\Users\natha\source\repos\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.csproj.GenerateResource.cache
+C:\Users\natha\source\repos\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.csproj.CoreCompileInputs.cache
+C:\Users\natha\source\repos\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.exe
+C:\Users\natha\source\repos\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.pdb
+C:\Users\natha\source\repos\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.LessonPlanner.resources
+C:\Users\nathan.kleinedeters\Downloads\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\LessonCreator\bin\Debug\LessonCreator.exe.config
+C:\Users\nathan.kleinedeters\Downloads\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\LessonCreator\bin\Debug\LessonCreator.exe
+C:\Users\nathan.kleinedeters\Downloads\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\LessonCreator\bin\Debug\LessonCreator.pdb
+C:\Users\nathan.kleinedeters\Downloads\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\LessonCreator\obj\Debug\LessonCreator.csprojAssemblyReference.cache
+C:\Users\nathan.kleinedeters\Downloads\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\LessonCreator\obj\Debug\LessonCreator.LessonPlanner.resources
+C:\Users\nathan.kleinedeters\Downloads\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\LessonCreator\obj\Debug\LessonCreator.Properties.Resources.resources
+C:\Users\nathan.kleinedeters\Downloads\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\LessonCreator\obj\Debug\LessonCreator.csproj.GenerateResource.cache
+C:\Users\nathan.kleinedeters\Downloads\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\LessonCreator\obj\Debug\LessonCreator.csproj.CoreCompileInputs.cache
+C:\Users\nathan.kleinedeters\Downloads\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\LessonCreator\obj\Debug\LessonCreator.exe
+C:\Users\nathan.kleinedeters\Downloads\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\LessonCreator\obj\Debug\LessonCreator.pdb
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\LessonCreator\bin\Debug\LessonCreator.exe.config
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\LessonCreator\bin\Debug\LessonCreator.exe
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\LessonCreator\bin\Debug\LessonCreator.pdb
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\LessonCreator\obj\Debug\LessonCreator.csproj.AssemblyReference.cache
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\LessonCreator\obj\Debug\LessonCreator.csproj.SuggestedBindingRedirects.cache
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\LessonCreator\obj\Debug\LessonCreator.LessonPlanner.resources
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\LessonCreator\obj\Debug\LessonCreator.Properties.Resources.resources
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\LessonCreator\obj\Debug\LessonCreator.csproj.GenerateResource.cache
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\LessonCreator\obj\Debug\LessonCreator.csproj.CoreCompileInputs.cache
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\LessonCreator\obj\Debug\LessonCreator.exe
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\LessonCreator\obj\Debug\LessonCreator.pdb
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\LessonCreator\bin\Debug\LessonCreator.exe.config
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\LessonCreator\bin\Debug\LessonCreator.exe
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\LessonCreator\bin\Debug\LessonCreator.pdb
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\LessonCreator\obj\Debug\LessonCreator.csproj.AssemblyReference.cache
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\LessonCreator\obj\Debug\LessonCreator.csproj.SuggestedBindingRedirects.cache
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\LessonCreator\obj\Debug\LessonCreator.LessonPlanner.resources
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\LessonCreator\obj\Debug\LessonCreator.Properties.Resources.resources
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\LessonCreator\obj\Debug\LessonCreator.csproj.GenerateResource.cache
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\LessonCreator\obj\Debug\LessonCreator.csproj.CoreCompileInputs.cache
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\LessonCreator\obj\Debug\LessonCreator.exe
+C:\Users\natha\Desktop\DigitalProjectVersionOne-main\LessonCreator\obj\Debug\LessonCreator.pdb
+C:\Users\natha\Desktop\DTP2023\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\LessonCreator\bin\Debug\LessonCreator.exe.config
+C:\Users\natha\Desktop\DTP2023\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\LessonCreator\bin\Debug\LessonCreator.exe
+C:\Users\natha\Desktop\DTP2023\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\LessonCreator\bin\Debug\LessonCreator.pdb
+C:\Users\natha\Desktop\DTP2023\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\LessonCreator\obj\Debug\LessonCreator.csproj.AssemblyReference.cache
+C:\Users\natha\Desktop\DTP2023\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\LessonCreator\obj\Debug\LessonCreator.csproj.SuggestedBindingRedirects.cache
+C:\Users\natha\Desktop\DTP2023\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\LessonCreator\obj\Debug\LessonCreator.LessonPlanner.resources
+C:\Users\natha\Desktop\DTP2023\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\LessonCreator\obj\Debug\LessonCreator.Properties.Resources.resources
+C:\Users\natha\Desktop\DTP2023\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\LessonCreator\obj\Debug\LessonCreator.csproj.GenerateResource.cache
+C:\Users\natha\Desktop\DTP2023\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\LessonCreator\obj\Debug\LessonCreator.csproj.CoreCompileInputs.cache
+C:\Users\natha\Desktop\DTP2023\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\LessonCreator\obj\Debug\LessonCreator.exe
+C:\Users\natha\Desktop\DTP2023\DigitalProjectVersionOne-main\DigitalProjectVersionOne-main\LessonCreator\obj\Debug\LessonCreator.pdb
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\LessonCreator\bin\Debug\LessonCreator.exe.config
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\LessonCreator\bin\Debug\LessonCreator.exe
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\LessonCreator\bin\Debug\LessonCreator.pdb
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.csprojAssemblyReference.cache
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.LessonPlanner.resources
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.Properties.Resources.resources
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.csproj.GenerateResource.cache
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.csproj.CoreCompileInputs.cache
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.exe
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.pdb
+C:\Users\natha\Downloads\DTPStudentApp\DTPStudentApp\LessonCreator\bin\Debug\LessonCreator.exe.config
+C:\Users\natha\Downloads\DTPStudentApp\DTPStudentApp\LessonCreator\bin\Debug\LessonCreator.exe
+C:\Users\natha\Downloads\DTPStudentApp\DTPStudentApp\LessonCreator\bin\Debug\LessonCreator.pdb
+C:\Users\natha\Downloads\DTPStudentApp\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.csproj.AssemblyReference.cache
+C:\Users\natha\Downloads\DTPStudentApp\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.csproj.SuggestedBindingRedirects.cache
+C:\Users\natha\Downloads\DTPStudentApp\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.LessonPlanner.resources
+C:\Users\natha\Downloads\DTPStudentApp\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.Properties.Resources.resources
+C:\Users\natha\Downloads\DTPStudentApp\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.csproj.GenerateResource.cache
+C:\Users\natha\Downloads\DTPStudentApp\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.csproj.CoreCompileInputs.cache
+C:\Users\natha\Downloads\DTPStudentApp\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.exe
+C:\Users\natha\Downloads\DTPStudentApp\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.pdb
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp (1)\DTPStudentApp\DTPStudentApp\LessonCreator\bin\Debug\LessonCreator.exe.config
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp (1)\DTPStudentApp\DTPStudentApp\LessonCreator\bin\Debug\LessonCreator.exe
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp (1)\DTPStudentApp\DTPStudentApp\LessonCreator\bin\Debug\LessonCreator.pdb
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp (1)\DTPStudentApp\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.csprojAssemblyReference.cache
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp (1)\DTPStudentApp\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.LessonPlanner.resources
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp (1)\DTPStudentApp\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.Properties.Resources.resources
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp (1)\DTPStudentApp\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.csproj.GenerateResource.cache
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp (1)\DTPStudentApp\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.csproj.CoreCompileInputs.cache
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp (1)\DTPStudentApp\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.exe
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp (1)\DTPStudentApp\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.pdb
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\LessonCreator\bin\Debug\Common.dll
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\LessonCreator\bin\Debug\Common.pdb
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.csproj.CopyComplete
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\LessonCreator\bin\Debug\LessonCreator.exe.config
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\LessonCreator\bin\Debug\LessonCreator.exe
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\LessonCreator\bin\Debug\LessonCreator.pdb
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\LessonCreator\bin\Debug\Common.dll
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\LessonCreator\bin\Debug\Common.pdb
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.csprojAssemblyReference.cache
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.LessonPlanner.resources
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.Properties.Resources.resources
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.csproj.GenerateResource.cache
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.csproj.CoreCompileInputs.cache
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.csproj.CopyComplete
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.exe
+C:\Users\nathan.kleinedeters\Downloads\DTPStudentApp\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.pdb
+C:\Users\natha\Downloads\DTPStudentApp\LessonCreator\bin\Debug\LessonCreator.exe.config
+C:\Users\natha\Downloads\DTPStudentApp\LessonCreator\bin\Debug\LessonCreator.exe
+C:\Users\natha\Downloads\DTPStudentApp\LessonCreator\bin\Debug\LessonCreator.pdb
+C:\Users\natha\Downloads\DTPStudentApp\LessonCreator\bin\Debug\Common.dll
+C:\Users\natha\Downloads\DTPStudentApp\LessonCreator\bin\Debug\Common.pdb
+C:\Users\natha\Downloads\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.csproj.AssemblyReference.cache
+C:\Users\natha\Downloads\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.csproj.SuggestedBindingRedirects.cache
+C:\Users\natha\Downloads\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.LessonPlanner.resources
+C:\Users\natha\Downloads\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.Properties.Resources.resources
+C:\Users\natha\Downloads\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.csproj.GenerateResource.cache
+C:\Users\natha\Downloads\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.csproj.CoreCompileInputs.cache
+C:\Users\natha\Downloads\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.csproj.CopyComplete
+C:\Users\natha\Downloads\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.exe
+C:\Users\natha\Downloads\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.pdb
+C:\Users\nathan.kleinedeters\Downloads\DTPVersion3 (1)\DTPStudentApp\LessonCreator\bin\Debug\LessonCreator.exe.config
+C:\Users\nathan.kleinedeters\Downloads\DTPVersion3 (1)\DTPStudentApp\LessonCreator\bin\Debug\LessonCreator.exe
+C:\Users\nathan.kleinedeters\Downloads\DTPVersion3 (1)\DTPStudentApp\LessonCreator\bin\Debug\LessonCreator.pdb
+C:\Users\nathan.kleinedeters\Downloads\DTPVersion3 (1)\DTPStudentApp\LessonCreator\bin\Debug\Common.dll
+C:\Users\nathan.kleinedeters\Downloads\DTPVersion3 (1)\DTPStudentApp\LessonCreator\bin\Debug\Common.pdb
+C:\Users\nathan.kleinedeters\Downloads\DTPVersion3 (1)\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.csprojAssemblyReference.cache
+C:\Users\nathan.kleinedeters\Downloads\DTPVersion3 (1)\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.LessonPlanner.resources
+C:\Users\nathan.kleinedeters\Downloads\DTPVersion3 (1)\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.Properties.Resources.resources
+C:\Users\nathan.kleinedeters\Downloads\DTPVersion3 (1)\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.csproj.GenerateResource.cache
+C:\Users\nathan.kleinedeters\Downloads\DTPVersion3 (1)\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.csproj.CoreCompileInputs.cache
+C:\Users\nathan.kleinedeters\Downloads\DTPVersion3 (1)\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.csproj.CopyComplete
+C:\Users\nathan.kleinedeters\Downloads\DTPVersion3 (1)\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.exe
+C:\Users\nathan.kleinedeters\Downloads\DTPVersion3 (1)\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.pdb
+C:\Users\natha\Downloads\DTPVersion3\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.csproj.AssemblyReference.cache
+C:\Users\natha\Downloads\DTPVersion3\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.csproj.SuggestedBindingRedirects.cache
+C:\Users\natha\Downloads\DTPVersion3\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.LessonPlanner.resources
+C:\Users\natha\Downloads\DTPVersion3\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.Properties.Resources.resources
+C:\Users\natha\Downloads\DTPVersion3\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.csproj.GenerateResource.cache
+C:\Users\natha\Downloads\DTPVersion3\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.csproj.CoreCompileInputs.cache
+C:\Users\natha\Downloads\DTPVersion3\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.exe
+C:\Users\natha\Downloads\DTPVersion3\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.pdb
+C:\Users\natha\Downloads\DTPVersion3\DTPStudentApp\LessonCreator\bin\Debug\LessonCreator.exe.config
+C:\Users\natha\Downloads\DTPVersion3\DTPStudentApp\LessonCreator\bin\Debug\LessonCreator.exe
+C:\Users\natha\Downloads\DTPVersion3\DTPStudentApp\LessonCreator\bin\Debug\LessonCreator.pdb
+C:\Users\natha\Downloads\DTPVersion3\DTPStudentApp\LessonCreator\bin\Debug\Common.dll
+C:\Users\natha\Downloads\DTPVersion3\DTPStudentApp\LessonCreator\bin\Debug\Common.pdb
+C:\Users\natha\Downloads\DTPVersion3\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.csproj.CopyComplete
+C:\Users\nathan.kleinedeters\Downloads\DTPVersion3 (1)\DTPVersion3\DTPStudentApp\LessonCreator\bin\Debug\LessonCreator.exe.config
+C:\Users\nathan.kleinedeters\Downloads\DTPVersion3 (1)\DTPVersion3\DTPStudentApp\LessonCreator\bin\Debug\LessonCreator.exe
+C:\Users\nathan.kleinedeters\Downloads\DTPVersion3 (1)\DTPVersion3\DTPStudentApp\LessonCreator\bin\Debug\LessonCreator.pdb
+C:\Users\nathan.kleinedeters\Downloads\DTPVersion3 (1)\DTPVersion3\DTPStudentApp\LessonCreator\bin\Debug\Common.dll
+C:\Users\nathan.kleinedeters\Downloads\DTPVersion3 (1)\DTPVersion3\DTPStudentApp\LessonCreator\bin\Debug\Common.pdb
+C:\Users\nathan.kleinedeters\Downloads\DTPVersion3 (1)\DTPVersion3\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.csprojAssemblyReference.cache
+C:\Users\nathan.kleinedeters\Downloads\DTPVersion3 (1)\DTPVersion3\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.LessonPlanner.resources
+C:\Users\nathan.kleinedeters\Downloads\DTPVersion3 (1)\DTPVersion3\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.Properties.Resources.resources
+C:\Users\nathan.kleinedeters\Downloads\DTPVersion3 (1)\DTPVersion3\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.csproj.GenerateResource.cache
+C:\Users\nathan.kleinedeters\Downloads\DTPVersion3 (1)\DTPVersion3\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.csproj.CoreCompileInputs.cache
+C:\Users\nathan.kleinedeters\Downloads\DTPVersion3 (1)\DTPVersion3\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.csproj.CopyComplete
+C:\Users\nathan.kleinedeters\Downloads\DTPVersion3 (1)\DTPVersion3\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.exe
+C:\Users\nathan.kleinedeters\Downloads\DTPVersion3 (1)\DTPVersion3\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.pdb
