@@ -235,6 +235,8 @@ namespace TeacherTool
         //Called when the teachers wants to push a new lesson to the classroom
         private void pushLesson_Click(object sender, EventArgs e)
         {
+            if (!socket.Connected || classId == String.Empty)
+                return;
             //Open a dialog box so the teacher can select the lesson file
             OpenFileDialog lessonSelector = new OpenFileDialog();
            
