@@ -454,3 +454,45 @@ C:\Users\natha\OneDrive\Documents\DTPStudentApp\LearningApplicationVersionThree\
 C:\Users\natha\OneDrive\Documents\DTPStudentApp\LearningApplicationVersionThree\DTPStudentApp\obj\Debug\Student App.csproj.CopyComplete
 C:\Users\natha\OneDrive\Documents\DTPStudentApp\LearningApplicationVersionThree\DTPStudentApp\obj\Debug\DTPStudentApp.exe
 C:\Users\natha\OneDrive\Documents\DTPStudentApp\LearningApplicationVersionThree\DTPStudentApp\obj\Debug\DTPStudentApp.pdb
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\DTPStudentApp.exe.config
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\DTPStudentApp.exe
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\DTPStudentApp.pdb
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\en\DTPStudentApp.resources.dll
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\Common.dll
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\SocketIOClient.dll
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\System.Buffers.dll
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\System.Memory.dll
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\System.Numerics.Vectors.dll
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\System.Text.Encodings.Web.dll
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\System.Text.Json.dll
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\System.ValueTuple.dll
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\Woof.Core.dll
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\Woof.System.dll
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\Common.pdb
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\SocketIOClient.xml
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\System.Buffers.xml
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\System.Memory.xml
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\System.Numerics.Vectors.xml
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\System.Text.Encodings.Web.xml
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\System.Text.Json.xml
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\System.ValueTuple.xml
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\Woof.Core.xml
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\Woof.System.xml
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\obj\Debug\Student App.csprojAssemblyReference.cache
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\obj\Debug\DTPStudentApp.Properties.mi_local.resources
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\obj\Debug\DTPStudentApp.Properties.en_local.resources
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\obj\Debug\DTPStudentApp.StudentApp.resources
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\obj\Debug\DTPStudentApp.Properties.Resources.resources
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\obj\Debug\DTPStudentApp.StudentApp.en.resources
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\obj\Debug\Student App.csproj.GenerateResource.cache
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\obj\Debug\Student App.csproj.CoreCompileInputs.cache
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\obj\Debug\en\DTPStudentApp.resources.dll
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\obj\Debug\Student App.csproj.CopyComplete
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\obj\Debug\DTPStudentApp.exe
+\\gbhs\studentusers$\home\students\nathan.kleinedeters\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\obj\Debug\DTPStudentApp.pdb
