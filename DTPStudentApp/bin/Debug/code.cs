@@ -4,16 +4,14 @@ class Program
 {
     static void Main()
     {
-        int number = 10;
+        // Declare and initialize variables
+        int age = 25;
+        double salary = 2500.50;
+        string name = "John Doe";
 
-        // Check if the number is positive or negative
-        if (number >= 0)
-        {
-            Console.WriteLine("The number is positive.");
-        }
-        else
-        {
-            Console.WriteLine("The number is negative.");
-        }
+        // Print variable values
+        Console.WriteLine("Name: " + name);
+        Console.WriteLine("Age: " + age);
+        Console.WriteLine("Salary: $" + salary);
     }
 }
