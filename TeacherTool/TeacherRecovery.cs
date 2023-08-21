@@ -54,5 +54,11 @@ namespace TeacherTool
         {
 
         }
+
+        private void TeacherRecovery_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+                Submit_Click(sender, new EventArgs());
+        }
     }
 }

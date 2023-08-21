@@ -153,3 +153,16 @@ C:\Users\nathan.kleinedeters\Downloads\DTPVersion3 (1)\DTPVersion3\DTPStudentApp
 C:\Users\nathan.kleinedeters\Downloads\DTPVersion3 (1)\DTPVersion3\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.csproj.CopyComplete
 C:\Users\nathan.kleinedeters\Downloads\DTPVersion3 (1)\DTPVersion3\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.exe
 C:\Users\nathan.kleinedeters\Downloads\DTPVersion3 (1)\DTPVersion3\DTPStudentApp\LessonCreator\obj\Debug\LessonCreator.pdb
+C:\Users\nathan.kleinedeters\source\repos\LearningApplicationVersionThree\LessonCreator\bin\Debug\LessonCreator.exe.config
+C:\Users\nathan.kleinedeters\source\repos\LearningApplicationVersionThree\LessonCreator\bin\Debug\LessonCreator.exe
+C:\Users\nathan.kleinedeters\source\repos\LearningApplicationVersionThree\LessonCreator\bin\Debug\LessonCreator.pdb
+C:\Users\nathan.kleinedeters\source\repos\LearningApplicationVersionThree\LessonCreator\bin\Debug\Common.dll
+C:\Users\nathan.kleinedeters\source\repos\LearningApplicationVersionThree\LessonCreator\bin\Debug\Common.pdb
+C:\Users\nathan.kleinedeters\source\repos\LearningApplicationVersionThree\LessonCreator\obj\Debug\LessonCreator.csprojAssemblyReference.cache
+C:\Users\nathan.kleinedeters\source\repos\LearningApplicationVersionThree\LessonCreator\obj\Debug\LessonCreator.LessonPlanner.resources
+C:\Users\nathan.kleinedeters\source\repos\LearningApplicationVersionThree\LessonCreator\obj\Debug\LessonCreator.Properties.Resources.resources
+C:\Users\nathan.kleinedeters\source\repos\LearningApplicationVersionThree\LessonCreator\obj\Debug\LessonCreator.csproj.GenerateResource.cache
+C:\Users\nathan.kleinedeters\source\repos\LearningApplicationVersionThree\LessonCreator\obj\Debug\LessonCreator.csproj.CoreCompileInputs.cache
+C:\Users\nathan.kleinedeters\source\repos\LearningApplicationVersionThree\LessonCreator\obj\Debug\LessonCreator.csproj.CopyComplete
+C:\Users\nathan.kleinedeters\source\repos\LearningApplicationVersionThree\LessonCreator\obj\Debug\LessonCreator.exe
+C:\Users\nathan.kleinedeters\source\repos\LearningApplicationVersionThree\LessonCreator\obj\Debug\LessonCreator.pdb

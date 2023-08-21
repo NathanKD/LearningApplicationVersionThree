@@ -42,5 +42,11 @@ namespace TeacherTool
                 return;
             }
         }
+
+        private void TokenTest_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+                Submit_Click(sender,new EventArgs());
+        }
     }
 }

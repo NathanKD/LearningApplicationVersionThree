@@ -54,5 +54,11 @@ namespace TeacherTool
             t.Show();
             this.Close();
         }
+
+        private void TeacherRegister_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+                Submit_Click(sender, new EventArgs());
+        }
     }
 }

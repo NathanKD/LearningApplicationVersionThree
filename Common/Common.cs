@@ -71,18 +71,25 @@ namespace Common
         private Action<string> callBack;
         public DialogBox(string question, Action<string> callBack)
         {
-            this.Size = new Size(300, 150);
+            this.Size = new Size(300, 160);
             Label questionLabel = new Label();
             questionLabel.Text = question;
-            questionLabel.Location = new Point(150, 30);
+            questionLabel.Location = new Point(150-(questionLabel.Width/2), 30);
 
             input = new TextBox();
-            input.Location = new Point(150, 60);
+            input.Location = new Point(150-(input.Width/2), 60);
 
             input.KeyDown += keyPress;
+            Button submit = new Button();
+            submit.Location = new Point(150+(input.Width / 2)+3, 60);
+            submit.Text = ">";
+            submit.Width = 20;
+            submit.Click += new EventHandler(delegate (object s, EventArgs e){ keyPress(s, new KeyEventArgs(Keys.Enter)); });
+
             this.callBack = callBack;
             this.Controls.Add(questionLabel);
             this.Controls.Add(input);
+            this.Controls.Add(submit);
             this.Show();
         }
         private void keyPress(object sender, KeyEventArgs e)

@@ -28,3 +28,9 @@ C:\Users\nathan.kleinedeters\Downloads\DTPVersion3 (1)\DTPVersion3\DTPStudentApp
 C:\Users\nathan.kleinedeters\Downloads\DTPVersion3 (1)\DTPVersion3\DTPStudentApp\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
 C:\Users\nathan.kleinedeters\Downloads\DTPVersion3 (1)\DTPVersion3\DTPStudentApp\Common\obj\Debug\Common.dll
 C:\Users\nathan.kleinedeters\Downloads\DTPVersion3 (1)\DTPVersion3\DTPStudentApp\Common\obj\Debug\Common.pdb
+C:\Users\nathan.kleinedeters\source\repos\LearningApplicationVersionThree\Common\bin\Debug\Common.dll
+C:\Users\nathan.kleinedeters\source\repos\LearningApplicationVersionThree\Common\bin\Debug\Common.pdb
+C:\Users\nathan.kleinedeters\source\repos\LearningApplicationVersionThree\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\nathan.kleinedeters\source\repos\LearningApplicationVersionThree\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\nathan.kleinedeters\source\repos\LearningApplicationVersionThree\Common\obj\Debug\Common.dll
+C:\Users\nathan.kleinedeters\source\repos\LearningApplicationVersionThree\Common\obj\Debug\Common.pdb

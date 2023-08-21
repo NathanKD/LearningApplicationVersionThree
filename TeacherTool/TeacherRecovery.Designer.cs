@@ -113,6 +113,7 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Recovery";
             this.Load += new System.EventHandler(this.TeacherRecovery_Load);
+            this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.TeacherRecovery_KeyDown);
             this.ResumeLayout(false);
             this.PerformLayout();
 

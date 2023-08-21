@@ -110,6 +110,7 @@
             this.Name = "TokenTest";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "TeacherToken";
+            this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.TokenTest_KeyDown);
             this.ResumeLayout(false);
             this.PerformLayout();
 
