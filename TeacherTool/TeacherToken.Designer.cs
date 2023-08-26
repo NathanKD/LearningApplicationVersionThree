@@ -93,6 +93,7 @@
             this.Recover.Size = new System.Drawing.Size(79, 13);
             this.Recover.TabIndex = 17;
             this.Recover.Text = "Need Support?";
+            this.Recover.Click += new System.EventHandler(this.Recover_Click);
             // 
             // TokenTest
             // 

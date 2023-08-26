@@ -442,7 +442,6 @@ C:\Users\natha\OneDrive\Documents\DTPStudentApp\LearningApplicationVersionThree\
 C:\Users\natha\OneDrive\Documents\DTPStudentApp\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\Woof.Core.xml
 C:\Users\natha\OneDrive\Documents\DTPStudentApp\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\Woof.System.xml
 C:\Users\natha\OneDrive\Documents\DTPStudentApp\LearningApplicationVersionThree\DTPStudentApp\obj\Debug\Student App.csproj.AssemblyReference.cache
-C:\Users\natha\OneDrive\Documents\DTPStudentApp\LearningApplicationVersionThree\DTPStudentApp\obj\Debug\Student App.csproj.SuggestedBindingRedirects.cache
 C:\Users\natha\OneDrive\Documents\DTPStudentApp\LearningApplicationVersionThree\DTPStudentApp\obj\Debug\DTPStudentApp.Properties.mi_local.resources
 C:\Users\natha\OneDrive\Documents\DTPStudentApp\LearningApplicationVersionThree\DTPStudentApp\obj\Debug\DTPStudentApp.Properties.en_local.resources
 C:\Users\natha\OneDrive\Documents\DTPStudentApp\LearningApplicationVersionThree\DTPStudentApp\obj\Debug\DTPStudentApp.StudentApp.resources

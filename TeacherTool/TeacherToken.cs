@@ -48,5 +48,10 @@ namespace TeacherTool
             if (e.KeyCode == Keys.Enter)
                 Submit_Click(sender,new EventArgs());
         }
+
+        private void Recover_Click(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.Start("mailto:LearningAppDTP@outlook.com[?subject=AccountRecovery]");
+        }
     }
 }

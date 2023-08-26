@@ -417,7 +417,6 @@ C:\Users\natha\OneDrive\Documents\DTPStudentApp\LearningApplicationVersionThree\
 C:\Users\natha\OneDrive\Documents\DTPStudentApp\LearningApplicationVersionThree\TeacherTool\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\natha\OneDrive\Documents\DTPStudentApp\LearningApplicationVersionThree\TeacherTool\bin\Debug\System.ValueTuple.xml
 C:\Users\natha\OneDrive\Documents\DTPStudentApp\LearningApplicationVersionThree\TeacherTool\obj\Debug\TeacherTool.csproj.AssemblyReference.cache
-C:\Users\natha\OneDrive\Documents\DTPStudentApp\LearningApplicationVersionThree\TeacherTool\obj\Debug\TeacherTool.csproj.SuggestedBindingRedirects.cache
 C:\Users\natha\OneDrive\Documents\DTPStudentApp\LearningApplicationVersionThree\TeacherTool\obj\Debug\TeacherTool.TeacherRecovery.resources
 C:\Users\natha\OneDrive\Documents\DTPStudentApp\LearningApplicationVersionThree\TeacherTool\obj\Debug\TeacherTool.TeacherRegister.resources
 C:\Users\natha\OneDrive\Documents\DTPStudentApp\LearningApplicationVersionThree\TeacherTool\obj\Debug\TeacherTool.TokenTest.resources
