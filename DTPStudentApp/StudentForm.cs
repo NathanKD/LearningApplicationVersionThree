@@ -51,20 +51,30 @@ namespace DTPStudentApp
         private List<string> errors = new List<string>();
         //Store a collection of fonts including dyslexia font
         private PrivateFontCollection pfc = new PrivateFontCollection();
+        //This task is used to register a student on my server
         private async Task RegisterStudent() {
+            //Create an instance of the HTTP client
             HttpClient client = new HttpClient();
+            //Create a Dicitonary with header infomation
             var data = new Dictionary<string, string>() { { "name", Environment.UserName } };
+            //URL encode
             var content = new FormUrlEncodedContent(data);
+            //Post the http request and await a response from the server
             var response = await client.PostAsync("http://158.140.244.74:3000/registerStudent", content);
+            //Read it as string
             var ReadString = await response.Content.ReadAsStringAsync();
+            //Extract the user token using a Split rather than JSON because its computationally faster
             token = ReadString.Split('\"')[3];
+            //Write the new Token to the Cache File
             File.WriteAllText("./cache", token);
         }
         private async void safeConnect()
         {
+            //Try read the token if it fails register the student
             try { token = File.ReadAllLines("./cache")[0]; }
             catch { await RegisterStudent(); }
 
+            //Connect to my web server
             socket = new SocketIO("http://158.140.244.74:3000");
             //Create a dict to pass headers to server
             Dictionary<string, string> headers = new Dictionary<string, string>();
@@ -97,22 +107,32 @@ namespace DTPStudentApp
             classIds = new List<string>(File.ReadAllLines("./classData"));
             //
             InitializeComponent();
+            //Try and connect using a safe connect method 
             safeConnect();
             //check if the defaultCode.cs file exists 
             if (File.Exists("./DefaultCode.cs"))
                 defaultCode = File.ReadAllText("./DefaultCode.cs");
             //Set it to the codeBlock UI elements text so the user can edit it 
             codeBlock.SelectionTabs = new int[] { 20,40,80,90,100,110,120 };
+            //Set the text of my code block to the default code
             codeBlock.Text = defaultCode;
+            //Call the eventlister once as if the user has just edited the code block so the Syntax gets highlighted
             codeBlock_TextChanged(codeBlock, new EventArgs());
 
             //https://stackoverflow.com/questions/1297264/using-custom-fonts-on-a-label-on-winforms
+            //Loading a custom font is hard so I used this stack overflow answer to help me
+            //Get the size of the font
             int fontSize = Properties.Resources.OpenDyslexicMono_Regular.Length;
+            //Convert it to a byte array
             byte[] font = Properties.Resources.OpenDyslexicMono_Regular;
+            //Create a pointer to the memory we allocated for the font using the font size
             IntPtr data = Marshal.AllocCoTaskMem(fontSize);
+            //Copy the font data into the memory adress that we got
             Marshal.Copy(font, 0, data, fontSize);
+            //Add it to the private font collection
             pfc.AddMemoryFont(data, fontSize);
             //End of custom font
+            //Load default theme 
             LoadTheme(new Theme());
 
         }
@@ -483,105 +503,153 @@ namespace DTPStudentApp
         }
         private void codeBlock_TextChanged(object sender, EventArgs e)
         {
+            //Check if the Control Key is Down
             if (!ModifierKeys.HasFlag(Keys.Control)) 
+                //Add the text box to the Edit History Que.
                 EditHistory.Push((codeBlock.Text, codeBlock.SelectionStart));
-
+            //Save the current index of the cursor in the text so I can put it back
             int cursorIndex = codeBlock.SelectionStart;
-            
+            //Select all the text in the text box
             codeBlock.SelectAll();
+            //Set the text color to blank
             codeBlock.SelectionColor = selectedTheme.TextColor;
+            //Deselect the whole text
             codeBlock.DeselectAll();
+            //Loop through the key pair values of the themes regex
             foreach (KeyValuePair<Regex, Color> x in selectedTheme.syntax)
             {
                 //codeBlock.DeselectAll();
+                //Loop through all the matches of each key work in the text
                 foreach(Match match in x.Key.Matches(codeBlock.Text))
                 {
+                    //Select the word
                     codeBlock.Select(match.Index, match.Value.ToString().Length);
+                    //Set the text colour to the syntax colour 
                     codeBlock.SelectionColor = x.Value;
                 }
             }
-
+            //Clean up. Reset cursor and deselect all the text
             codeBlock.DeselectAll();
             codeBlock.SelectionStart = cursorIndex;
         }
+        //Create a new theme instance
         private Theme selectedTheme = new Theme();
+        /// <summary>
+        /// Load any given theme and apply it to the UI
+        /// </summary>
+        /// <param name="load">Theme to apply</param>
         private void LoadTheme(Theme load)
         {
+            //Set the backgorund colour to themes backgorund colour
             this.BackColor = load.backgorund;
+            //These comps have a differnt backcolour property and need to be done seperately 
             List<Type> textComponents = new List<Type> { typeof(Label), typeof(TextBox), typeof(RichTextBox) };
-
+            //Loop through each of the UI names and color and try and find it in my UI 
             foreach (KeyValuePair<string, Color> i in load.controlColorSettings)
+                //Set the their colour to the Theme colour
                 Controls.Find(i.Key, true)[0].BackColor = i.Value;
-
+            //Set the current theme to the selected theme
             selectedTheme = load;
+            //Set a few things manually because they need to be a forecolour rather than back
             codeBlock.ForeColor = load.TextColor;
             compilerBlock.ForeColor = load.TextColor;
             lessonInfo.ForeColor = load.TextColor;
             lessonTitle.ForeColor = load.TextColor;
-
+            //Loop through each lesson button and set its colour to the correct colour
             foreach (Control c in this.Controls.Find("lessonButton", true))
                 (c as Button).ForeColor = load.TextColor;
+            //Loop through all controls 
             foreach (Control c in this.Controls)
             {
+                //Make sure it has the correct type and set its fore colour
                 if (textComponents.Contains(c.GetType()))
                     c.ForeColor = load.TextColor;
+                //Loop through each control in the lesson button
                 foreach (Control x in c.Controls)
+                    //Check type and set colour
                     if (textComponents.Contains(x.GetType()))
                         x.ForeColor = load.TextColor;
             }
         }
-        
+        //Called when the settings menu button is clicked
         private void Settings_Click(object sender, EventArgs e)
         {
+            //Create a sub context menu for the sub options
             ContextMenu c = new ContextMenu();
+            //Add theme option
             c.MenuItems.Add(new MenuItem("Theme"));
+            //Add font option
             c.MenuItems.Add(new MenuItem("Dyslexia Font", fontClick));
+            //Add languge option
             c.MenuItems.Add(new MenuItem("Change Language"));
+            //Add suboption to each languge option and add call a function that changes the languge. 
             c.MenuItems[2].MenuItems.Add("English", (object s, EventArgs args) => { 
                 changeLang(Properties.en_local.ResourceManager);
             });
             c.MenuItems[2].MenuItems.Add("Te Reo", (object s, EventArgs args) => {
                 changeLang(Properties.mi_local.ResourceManager);
             });
+            //Loop through all theme options and add them to the list
             foreach (Theme t in DefaultThemes.defaultThemes)
+                //Call the load theme function when the they are clicked with the theme they corrspond to 
                 c.MenuItems[0].MenuItems.Add(t.name, (object s, EventArgs args) => LoadTheme(t));
+            //Show the context menu with a slight offset for aethetics 
             c.Show((Control)sender,new Point(0,10));
         }
+        //Function for languge change
         private void changeLang(ResourceManager rm)
         {
+            //Loop through ever control and replace the strings 
             foreach (Control c in this.Controls)
                 c.Text = rm.GetString(c.Name);
+            //Loop through the main menu and replace strings
             foreach(Control c in mainMenu.Controls)
                 c.Text = rm.GetString(c.Name);
         }
+        //Bool used to determin if Dsyleixa
         private bool DYSLEXIA = false;
+        //Load a default font
         private Font selectedFont = new Font("Microsoft Sans Serif", 8.25f);
+        //Called when dsylxia button is clicked
         private void fontClick(object sender, EventArgs e)
         {
+            //Invert bool false = true true = false
             DYSLEXIA = !DYSLEXIA;
+            //Select the correct font depending on the boolean
             selectedFont = DYSLEXIA ? new Font(pfc.Families[0], 8.25f) : new Font("Microsoft Sans Serif", 8.25f);
+            //Adjust the main menu because the dslyixa font is bigger
             adjustMenus(DYSLEXIA? -10 : 10);
-
+            //Loop through each control and update font
             foreach (Control control in this.Controls)
                 control.Font = selectedFont;
+            //Manually set some because they dont get picked up in loop
             lessonInfo.Font = selectedFont;
             lessonTitle.Font = selectedFont;
             
             codeBlock.Font = selectedFont;
             codeBlock.SelectionFont = selectedFont;
+            //Call the syntax highlighting to reapply to code
             codeBlock_TextChanged((object)codeBlock,new EventArgs());
         }
+        /// <summary>
+        /// Justed to adjust the size of the top menu
+        /// </summary>
+        /// <param name="offset">pixel offset</param>
         private void adjustMenus(int offset)
         {
+            //Create a new padding
+            //Change the location of the main menu with new offset
             Padding = new Padding(0, Padding.Top-offset, 0, 0);
             mainMenu.Location = new Point(mainMenu.Location.X, mainMenu.Location.Y+offset);
+            //Change Run button locaiton
             Run.Location = new Point(Run.Location.X, Run.Location.Y + offset);
+            //Change classUI Label locaiton with new offset
             classUIID.Location = new Point(classUIID.Location.X, classUIID.Location.Y + offset);
-            //return true;
         }
-
+        //Called when the form loads
         private void StudentApp_Load(object sender, EventArgs e)
         {
+            //Check if builtinlesson exists and if so load it
             if (File.Exists("./builtIn.les"))
                 loadLessonFile("./builtIn.les");
             
