@@ -34,3 +34,9 @@ C:\Users\nathan.kleinedeters\source\repos\LearningApplicationVersionThree\Common
 C:\Users\nathan.kleinedeters\source\repos\LearningApplicationVersionThree\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
 C:\Users\nathan.kleinedeters\source\repos\LearningApplicationVersionThree\Common\obj\Debug\Common.dll
 C:\Users\nathan.kleinedeters\source\repos\LearningApplicationVersionThree\Common\obj\Debug\Common.pdb
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\Common\bin\Debug\Common.dll
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\Common\bin\Debug\Common.pdb
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\Common\obj\Debug\Common.dll
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\Common\obj\Debug\Common.pdb

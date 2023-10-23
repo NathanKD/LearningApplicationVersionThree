@@ -166,3 +166,16 @@ C:\Users\nathan.kleinedeters\source\repos\LearningApplicationVersionThree\Lesson
 C:\Users\nathan.kleinedeters\source\repos\LearningApplicationVersionThree\LessonCreator\obj\Debug\LessonCreator.csproj.CopyComplete
 C:\Users\nathan.kleinedeters\source\repos\LearningApplicationVersionThree\LessonCreator\obj\Debug\LessonCreator.exe
 C:\Users\nathan.kleinedeters\source\repos\LearningApplicationVersionThree\LessonCreator\obj\Debug\LessonCreator.pdb
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\LessonCreator\bin\Debug\LessonCreator.exe.config
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\LessonCreator\bin\Debug\LessonCreator.exe
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\LessonCreator\bin\Debug\LessonCreator.pdb
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\LessonCreator\bin\Debug\Common.dll
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\LessonCreator\bin\Debug\Common.pdb
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\LessonCreator\obj\Debug\LessonCreator.csproj.AssemblyReference.cache
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\LessonCreator\obj\Debug\LessonCreator.LessonPlanner.resources
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\LessonCreator\obj\Debug\LessonCreator.Properties.Resources.resources
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\LessonCreator\obj\Debug\LessonCreator.csproj.GenerateResource.cache
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\LessonCreator\obj\Debug\LessonCreator.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\LessonCreator\obj\Debug\LessonCreator.csproj.CopyComplete
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\LessonCreator\obj\Debug\LessonCreator.exe
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\LessonCreator\obj\Debug\LessonCreator.pdb

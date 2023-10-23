@@ -11,6 +11,7 @@ using System.Net.Http;
 using System.Net;
 using Newtonsoft.Json;
 using System.IO;
+using System.Diagnostics;
 
 namespace TeacherTool
 {
@@ -32,8 +33,8 @@ namespace TeacherTool
                 { "email", email.Text}
             };
             var content = new FormUrlEncodedContent(values);
-            var response = await client.PostAsync("https://learnappserver20.nathankleine1.repl.co/registerTeacher", content);
-
+            var response = await client.PostAsync("http://158.140.244.74:3000/registerTeacher", content);
+            Debug.Write(response.StatusCode);
             if ((int)response.StatusCode != 200)
             {
                 info.Text = "Registration Failed";

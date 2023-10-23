@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
 using System.Net.Http;
@@ -37,9 +38,10 @@ namespace TeacherTool
             HttpClient client = new HttpClient();
             var data = new Dictionary<string, string>() { { "email", email.Text } };
             var content = new FormUrlEncodedContent(data);
-            var response = await client.PostAsync("https://learnappserver20.nathankleine1.repl.co/recoverToken", content);
+            var response = await client.PostAsync("http://158.140.244.74:3000/recoverToken", content);
             int postStatus = (int)response.StatusCode;
-            if(postStatus != 200)
+            Debug.Write(response.StatusCode);
+            if (postStatus != 200)
             {
                 info.Text = "Email Not Found";
                 return;

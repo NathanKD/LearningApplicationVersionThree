@@ -537,3 +537,45 @@ C:\Users\nathan.kleinedeters\source\repos\LearningApplicationVersionThree\DTPStu
 C:\Users\nathan.kleinedeters\source\repos\LearningApplicationVersionThree\DTPStudentApp\obj\Debug\Student App.csproj.CopyComplete
 C:\Users\nathan.kleinedeters\source\repos\LearningApplicationVersionThree\DTPStudentApp\obj\Debug\DTPStudentApp.exe
 C:\Users\nathan.kleinedeters\source\repos\LearningApplicationVersionThree\DTPStudentApp\obj\Debug\DTPStudentApp.pdb
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\DTPStudentApp.exe.config
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\DTPStudentApp.exe
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\DTPStudentApp.pdb
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\en\DTPStudentApp.resources.dll
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\Common.dll
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\SocketIOClient.dll
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\System.Buffers.dll
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\System.Memory.dll
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\System.Text.Json.dll
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\System.ValueTuple.dll
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\Woof.Core.dll
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\Woof.System.dll
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\Common.pdb
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\SocketIOClient.xml
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\System.Buffers.xml
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\System.Memory.xml
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\System.Text.Json.xml
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\System.ValueTuple.xml
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\Woof.Core.xml
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\bin\Debug\Woof.System.xml
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\obj\Debug\Student App.csproj.AssemblyReference.cache
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\obj\Debug\DTPStudentApp.Properties.mi_local.resources
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\obj\Debug\DTPStudentApp.Properties.en_local.resources
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\obj\Debug\DTPStudentApp.StudentApp.resources
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\obj\Debug\DTPStudentApp.Properties.Resources.resources
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\obj\Debug\DTPStudentApp.StudentApp.en.resources
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\obj\Debug\Student App.csproj.GenerateResource.cache
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\obj\Debug\Student App.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\obj\Debug\en\DTPStudentApp.resources.dll
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\obj\Debug\Student App.csproj.CopyComplete
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\obj\Debug\DTPStudentApp.exe
+C:\Users\Nathan\Documents\GitHub\LearningApplicationVersionThree\DTPStudentApp\obj\Debug\DTPStudentApp.pdb

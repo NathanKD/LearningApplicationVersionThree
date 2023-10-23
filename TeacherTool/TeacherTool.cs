@@ -170,7 +170,7 @@ namespace TeacherTool
             classIds = new List<string>(File.ReadAllLines("./classData"));
 
             //Connect to my Node JS server
-            socket = new SocketIO("https://learnappserver20.nathankleine1.repl.co");
+            socket = new SocketIO("http://158.140.244.74:3000");
             //Create a dict of headers that will be sent with the request to establish connection to the server
             Dictionary<string, string> headers = new Dictionary<string, string>();
             //Send the persistent user token to the server

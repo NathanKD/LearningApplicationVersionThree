@@ -55,7 +55,7 @@ namespace DTPStudentApp
             HttpClient client = new HttpClient();
             var data = new Dictionary<string, string>() { { "name", Environment.UserName } };
             var content = new FormUrlEncodedContent(data);
-            var response = await client.PostAsync("https://learnappserver20.nathankleine1.repl.co/registerStudent", content);
+            var response = await client.PostAsync("http://158.140.244.74:3000/registerStudent", content);
             var ReadString = await response.Content.ReadAsStringAsync();
             token = ReadString.Split('\"')[3];
             File.WriteAllText("./cache", token);
@@ -65,7 +65,7 @@ namespace DTPStudentApp
             try { token = File.ReadAllLines("./cache")[0]; }
             catch { await RegisterStudent(); }
 
-            socket = new SocketIO("https://learnappserver20.nathankleine1.repl.co");
+            socket = new SocketIO("http://158.140.244.74:3000");
             //Create a dict to pass headers to server
             Dictionary<string, string> headers = new Dictionary<string, string>();
             //Give the persistent token to the server
