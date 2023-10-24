@@ -12,6 +12,7 @@ using System.Windows.Forms;
 using System.Xml.Linq;
 using Common;
 using System.Runtime.Serialization.Formatters.Binary;
+using System.Diagnostics;
 
 namespace TeacherTool
 {
@@ -107,6 +108,7 @@ namespace TeacherTool
             //This event is trigger when the server has infomation on a student in the class 
             //Teacher(Reloads StudentList) -> Server(Asks each student for their name and profile pictures) -> Teacher(gets all the info and write it to the UI)
             socket.On("studentInfo", async res => {
+                Debug.WriteLine("Got Infomation");
                 // _name, _pfp, _token (Format of the response)
                 //Get the students Token
                 string token = res.GetValue(2).GetString();
@@ -230,7 +232,13 @@ namespace TeacherTool
         }
         private void TeacherPlanner_Load(object sender, EventArgs e)
         {
-
+            //Delete Later
+            /*StudentUIPanel Student = new StudentUIPanel("Sean",Bitmap.FromFile("C:\\Users\\natha\\OneDrive\\Desktop\\downloads\\guh.jpg") as Bitmap,"123");
+            studentSelect.Controls.Add(Student);
+            Student = new StudentUIPanel("Mikey", Bitmap.FromFile("C:\\Users\\natha\\OneDrive\\Desktop\\downloads\\guh.jpg") as Bitmap, "123");
+            studentSelect.Controls.Add(Student);
+            Student = new StudentUIPanel("Jayden", Bitmap.FromFile("C:\\Users\\natha\\OneDrive\\Desktop\\downloads\\guh.jpg") as Bitmap, "123");
+            studentSelect.Controls.Add(Student);*/
         }
         //Called when the teachers wants to push a new lesson to the classroom
         private void pushLesson_Click(object sender, EventArgs e)
