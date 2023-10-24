@@ -477,9 +477,17 @@ namespace DTPStudentApp
         //Name of this eventlistner is deciving and its called when the user pulls a lesson
         private void selectLesson_Click(object sender, EventArgs e)
         {
-            //Ask the server for the first lesson of the classroom 
-            //Add funcitonailty for multiple lessons later
-            socket.EmitAsync("getLesson",new object[] { classId,1});
+            ContextMenu c = new ContextMenu();
+            c.MenuItems.Add(new MenuItem("Level One", (object s, EventArgs args) => { loadLessonFile("LevelOne.les"); }));
+            c.MenuItems.Add(new MenuItem("Level Two", (object s, EventArgs args) => { loadLessonFile("LevelTwo.les"); }));
+            c.MenuItems.Add(new MenuItem("Level Three", (object s, EventArgs args) => { loadLessonFile("LevelThree.les"); }));
+            c.MenuItems.Add("Get Online Lesson", (object s, EventArgs args) => {
+                //Ask the server for the first lesson of the classroom 
+                //Add funcitonailty for multiple lessons later
+                socket.EmitAsync("getLesson", new object[] { classId, 1 });
+            });
+
+            c.Show((Control)sender, new Point(0, 20));
         }
         Stack<(string text,int index)> EditHistory = new Stack<(string text,int index)>();
         private void codeBlock_KeyDown(object sender, KeyEventArgs e)
